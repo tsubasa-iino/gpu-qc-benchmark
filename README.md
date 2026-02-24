@@ -1,6 +1,6 @@
 # gpu-qc-benchmark
 
-GPUを用いた量子化学計算のベンチマーク用Jupyter環境
+GPUを用いた量子化学計算プログラムのベンチマーク
 
 ## 必須環境
 - Docker (および Docker Compose プラグイン)
